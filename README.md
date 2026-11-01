@@ -40,3 +40,7 @@ Project Files
 
 Skills Demonstrated
 Excel | Power BI | DAX | Power Query | Data Analysis | Data Visualization | Dashboard Development
+
+## Dashboard Preview
+
+![Employee Attendance Dashboard](1.jpg)
